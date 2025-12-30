@@ -12,7 +12,7 @@
 
 
 
-* 🎓  I'm currently pursuing a B.Tech in CSE
+* 💼 I am currently doing an internship at the Autonomous Port of Lomé
 * ✉️  You can contact me at [maximeananivi@gmail.com](mailto:maximeananivi@gmail.com)
 * ✨️ My best work till now  [MedRemind]()
 * 🚀 Interested in future tech

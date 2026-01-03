@@ -16,6 +16,7 @@
 * ✉️  You can contact me at [maximeananivi@gmail.com](mailto:maximeananivi@gmail.com)
 * ✨️ My best work till now  [MedRemind]()
 * 🚀 Interested in future tech
+* 🌱 I’m currently learning React Native, Flutter, R
 
  <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

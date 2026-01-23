@@ -13,10 +13,18 @@
 
 
 * 💼 I am currently doing an internship at the Autonomous Port of Lomé
+* 💻 I am a self taught Full Stack Developer
 * ✉️  You can contact me at [maximeananivi@gmail.com](mailto:maximeananivi@gmail.com)
 * ✨️ My best work till now  [MedRemind]()
+* 🌟 Main languages: Python, JavaScript
 * 🚀 Interested in future tech
-* 🌱 I’m currently learning React Native, Flutter, R
+* 🔭 Computer science student and ia and big data bachlor
+* 🌱 I’m a mobile devlopper with React Native
+* 🔭 I’m currently working on my side projects
+* 🌱 I’m desinger for my side to my personnal project
+* 🌱 I’m also web devlopper with react, next, django
+* 🌱 I’m also backend developper with node js and Django Rest Framework
+* 🌱 I’m currently learning Typescript, Next.js and R
 
  <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

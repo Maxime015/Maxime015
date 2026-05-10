@@ -53,14 +53,7 @@
 <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-<h3 align="left">Connect with me </h3>
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/david-ananivi/)
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://www.instagram.com/maxime0__/)
-[![Discord](https://www.svgrepo.com/show/353655/discord-icon.svg)](https://discord.com/users/1279112638906892366)
 
- <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
 
 
 

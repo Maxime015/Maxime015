@@ -54,10 +54,23 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 <h3 align="left">Connect with me </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/david-ananivi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek ganvir" height="26" width="35" /></a>
-<a href="https://www.instagram.com/maxime0__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.abhi" height="30" width="40" /></a>
-<a href="https://discord.com/users/1279112638906892366" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="abhishekganvir" height="30" width="40" /></a>
+<p align="left" style="display:flex; gap:10px; align-items:center;">
+
+<a href="https://www.linkedin.com/in/david-ananivi/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       height="26" width="35" />
+</a>
+
+<a href="https://www.instagram.com/maxime0__" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+       height="30" width="40" />
+</a>
+
+<a href="https://discord.com/users/1279112638906892366" target="_blank">
+  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg"
+       height="30" width="40" />
+</a>
+
 </p>
 
  <div align="left">

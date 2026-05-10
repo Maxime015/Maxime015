@@ -54,24 +54,9 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 <h3 align="left">Connect with me </h3>
-<p align="left" style="display:flex; gap:10px; align-items:center;">
-
-<a href="https://www.linkedin.com/in/david-ananivi/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-       height="26" width="35" />
-</a>
-
-<a href="https://www.instagram.com/maxime0__" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-       height="30" width="40" />
-</a>
-
-<a href="https://discord.com/users/1279112638906892366" target="_blank">
-  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg"
-       height="30" width="40" />
-</a>
-
-</p>
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/david-ananivi/)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://www.instagram.com/maxime0__/)
+[![Discord](https://www.svgrepo.com/show/353655/discord-icon.svg)](https://discord.com/users/1279112638906892366)
 
  <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

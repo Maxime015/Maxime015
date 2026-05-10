@@ -32,22 +32,22 @@
 
 ### Skills
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://img.icons8.com/?size=96&id=21278&format=png" alt="CSS" width="45" height="45"/>
-  <img src="https://img.icons8.com/?size=128&id=ZMc42tPbG32H&format=png" alt="JavaScript" width="45" height="45"/>
-  <img src="https://img.icons8.com/?size=96&id=CIAZz2CYc6Kc&format=png" alt="Tailwind CSS" width="45" height="45"/>
-  <img src="https://img.icons8.com/?size=96&id=dJjTWMogzFzg&format=png" alt="TypeScript" width="45" height="45"/>
-  <img src="https://img.icons8.com/?size=128&id=Nkym0Ujb8VGI&format=png" alt="React" width="45" height="45"/>
-  <img src="https://img.icons8.com/?size=128&id=2ZOaTclOqD4q&format=png" alt="Next.js" width="45" height="45"/>
-  <img src="https://img.icons8.com/?size=96&id=hsPbhkOH4FMe&format=png" alt="Node.js" width="45" height="45"/>
-  <img src="https://img.icons8.com/?size=128&id=lVitPDXqQKP8&format=png" alt="Python" width="45" height="45"/>
-  <img src="https://img.icons8.com/?size=160&id=tBBf3P8HL0vR&format=png" alt="MongoDB" width="45" height="45"/>
-  <img src="https://img.icons8.com/?size=160&id=Pv4IGT0TSpt8&format=png" alt="MySQL" width="45" height="45"/>
-  <img src="https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png" alt="Git" width="45" height="45"/>
-  <img src="https://img.icons8.com/?size=96&id=8verEw3iUvx0&format=png" alt="GitHub" width="45" height="45"/>
-  <img src="https://img.icons8.com/?size=96&id=22813&format=png" alt="Docker" width="45" height="45"/>
-  <img src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" alt="Firebase" width="45" height="45"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="45" height="45" />
+  <img src="https://img.icons8.com/?size=96&id=21278&format=png" alt="CSS" width="45" height="45" />
+  <img src="https://img.icons8.com/?size=128&id=ZMc42tPbG32H&format=png" alt="JavaScript" width="45" height="45" />
+  <img src="https://img.icons8.com/?size=96&id=CIAZz2CYc6Kc&format=png" alt="Tailwind CSS" width="45" height="45" />
+  <img src="https://img.icons8.com/?size=96&id=dJjTWMogzFzg&format=png" alt="TypeScript" width="45" height="45" />
+  <img src="https://img.icons8.com/?size=128&id=Nkym0Ujb8VGI&format=png" alt="React" width="45" height="45" />
+  <img src="https://img.icons8.com/?size=128&id=2ZOaTclOqD4q&format=png" alt="Next.js" width="45" height="45" />
+  <img src="https://img.icons8.com/?size=96&id=hsPbhkOH4FMe&format=png" alt="Node.js" width="45" height="45" />
+  <img src="https://img.icons8.com/?size=128&id=lVitPDXqQKP8&format=png" alt="Python" width="45" height="45" />
+  <img src="https://img.icons8.com/?size=160&id=tBBf3P8HL0vR&format=png" alt="MongoDB" width="45" height="45" />
+  <img src="https://img.icons8.com/?size=160&id=Pv4IGT0TSpt8&format=png" alt="MySQL" width="45" height="45" />
+  <img src="https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png" alt="Git" width="45" height="45" />
+  <img src="https://img.icons8.com/?size=96&id=8verEw3iUvx0&format=png" alt="GitHub" width="45" height="45" />
+  <img src="https://img.icons8.com/?size=96&id=22813&format=png" alt="Docker" width="45" height="45" />
+  <img src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" alt="Firebase" width="45" height="45" />
 </p>
   
 <div align="left">

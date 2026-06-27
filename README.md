@@ -6,8 +6,6 @@ Hey there 👋, I'm Maxime ANANIVI
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="Maxime" /> </p>
-
 ### 🧑‍💻 About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science Engineering**

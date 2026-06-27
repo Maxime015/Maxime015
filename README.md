@@ -1,7 +1,7 @@
 [![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
 ]()
 <h3 align="center" style="margin:0; padding:0;">
-Hey there 👋, I'm Abhishek Ganvir
+Hey there 👋, I'm Maxime ANANIVI
 </h3><p align="center" style="margin:0;">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>

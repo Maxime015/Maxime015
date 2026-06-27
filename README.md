@@ -8,18 +8,16 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekGanvir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="Maxime" /> </p>
 
-* 💻 Self-taught Full Stack Developer
-* 🌟 Main languages: Python, JavaScript
-* 📱 Mobile Developer with React Native
-* 🌐 Web Developer with React, Next.js and Django
-* ⚙️ Backend Developer with Node.js and Django REST Framework
-* 🎓 Computer Science student — AI & Big Data Bachelor
-* 🚀 Interested in future technologies
-* 🔭 Currently working on side projects
-* 🌱 Currently learning TypeScript, Next.js and Rust
-* ✉️ Contact: [maximeananivi@gmail.com](mailto:maximeananivi@gmail.com)
+### 🧑‍💻 About Me
+
+- 🎓 Pursuing **B.Tech in Computer Science Engineering**
+- 💡 Curious mind exploring **tech, development & creative problem solving**
+- ⚡ I enjoy turning concepts into **real, working projects**
+- 📫 Reach me at: **maximeananivi@gmail.com**
+
+<br>
 
  <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
